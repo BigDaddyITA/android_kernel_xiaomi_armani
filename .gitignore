@@ -84,3 +84,13 @@ GTAGS
 *.orig
 *~
 \#*#
+
+#add user ignores:
+/out
+/KERNEL_OBJ
+build.mk
+dtbTool
+mkbootimg
+ramdisk.img
+smd_rpc_sym.c
+mkramdisk.img
